@@ -1,10 +1,12 @@
 .movieText {
    color: darkgreen;
-   font-size: 2vw;
+   font-size: 1.3vw;
    text-align: left;
+   background-color: lightgray;
 }
 
 .movieHeading {
    text-align: left;
-   color: darkgreen;
+   color: darkgreen; 
+   border: solid;
 }
