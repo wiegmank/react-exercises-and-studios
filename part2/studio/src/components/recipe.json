@@ -1,17 +1,20 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "BEST EVER GUACAMOLE",
+     "author": "Lisa Bryan",
+     "description": "This is the best guacamole recipe as it’s simple to make and uses fresh, high-quality ingredients. Authentic guacamole doesn’t contain fillers and unnecessary ingredients. All you need is avocados, onion, tomatoes, cilantro, jalapeno pepper, lime juice, garlic, and salt. Easy and delicious!",
+     "website": "https://downshiftology.com/recipes/best-ever-guacamole/",
+     "recipeImage": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/04/Guacamole-3-2.jpg",
+     "authorImage": "https://downshiftology.com/wp-content/uploads/2023/06/Lisa-Bryan-square-4-720x720.webp",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "avocados",
+       "onion",
+       "tomatoes",
+       "cilantro",
+       "jalapeno",
+       "garlic",
+       "lime",
+       "salt"
      ]
    }
  ]
