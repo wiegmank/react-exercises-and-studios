@@ -22,9 +22,10 @@ export default function StatusChange () {
             <input type="submit" />
          </form>
 
-         <p>{notes.length ? notes : "My Recipe Notes aren't here!"}</p>
+         {/*<p>{notes.length ? notes : "My Recipe Notes aren't here!"}</p>*/}
 
-         <p>{recipeStatus ? "I have tried this!" : "I have NOT tried this recipe!"}</p>
+         <p>{recipeStatus ? notes : "I have NOT tried this recipe!"}</p>
+         
       </div>
    );
 }

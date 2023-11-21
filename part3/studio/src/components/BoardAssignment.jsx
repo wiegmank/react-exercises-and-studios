@@ -28,12 +28,12 @@ export default function BoardAssignment () {
 
    return (
       <div style={{paddingTop: "50px"}}>
-      <label>Save to Board: </label>
-      <select value={boardName} onChange={handleChange}>
-         {boardOptions}
-      </select>
+         <label>Save to Board: </label>
+         <select value={boardName} onChange={handleChange}>
+            {boardOptions}
+         </select>
 
-   <p>Saved to {boardName}!</p> 
+      <p>Saved to {boardName}!</p> 
       </div>
    );
 }
